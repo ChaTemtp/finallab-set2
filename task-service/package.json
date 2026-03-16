@@ -1,10 +1,27 @@
 {
   "name": "task-service",
   "version": "1.0.0",
+<<<<<<< HEAD
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
   },
+=======
+<<<<<<< HEAD
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+=======
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 57e685cc62836a15e96b86bab455df6805f8ccd6
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+>>>>>>> 3b08dcd8df74ba294549f8716d67106621ddf38c
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",
@@ -13,4 +30,12 @@
     "morgan": "^1.10.1",
     "pg": "^8.20.0"
   }
+<<<<<<< HEAD
 }
+=======
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 57e685cc62836a15e96b86bab455df6805f8ccd6
+>>>>>>> 3b08dcd8df74ba294549f8716d67106621ddf38c

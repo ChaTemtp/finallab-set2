@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 node_modules/
 .env
 nginx/certs/*.pem
+=======
+<<<<<<< HEAD
+node_modules/
+.env
+nginx/certs/*.pem
+=======
+node_modules/
+.env
+nginx/certs/*.pem
+>>>>>>> 57e685cc62836a15e96b86bab455df6805f8ccd6
+>>>>>>> 3b08dcd8df74ba294549f8716d67106621ddf38c
 *.log

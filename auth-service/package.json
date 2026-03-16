@@ -1,6 +1,7 @@
 {
   "name": "auth-service",
   "version": "1.0.0",
+<<<<<<< HEAD
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
@@ -9,8 +10,35 @@
     "bcryptjs": "^3.0.3",
     "cors": "^2.8.6",
     "dotenv": "^17.3.1",
+=======
+<<<<<<< HEAD
+  "main": "index.js",
+  "scripts": {
+=======
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+>>>>>>> 57e685cc62836a15e96b86bab455df6805f8ccd6
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+>>>>>>> 3b08dcd8df74ba294549f8716d67106621ddf38c
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
     "pg": "^8.20.0"
   }
+<<<<<<< HEAD
 }
+=======
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 57e685cc62836a15e96b86bab455df6805f8ccd6
+>>>>>>> 3b08dcd8df74ba294549f8716d67106621ddf38c
