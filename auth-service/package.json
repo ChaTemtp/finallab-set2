@@ -1,8 +1,14 @@
 {
   "name": "auth-service",
   "version": "1.0.0",
+<<<<<<< HEAD
   "main": "index.js",
   "scripts": {
+=======
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+>>>>>>> 57e685cc62836a15e96b86bab455df6805f8ccd6
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -16,4 +22,8 @@
     "jsonwebtoken": "^9.0.3",
     "pg": "^8.20.0"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 57e685cc62836a15e96b86bab455df6805f8ccd6
